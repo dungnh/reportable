@@ -4,6 +4,11 @@
 # Laravel Reportable
 This package will allow you to add a full report system into your Laravel application.
 
+## Compatibility
+
+- Laravel `8.x` to `13.x`
+- PHP `7.3+` (depending on your selected Laravel version)
+
 ## Installation
 
 First, pull in the package through Composer.
